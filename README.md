@@ -7,7 +7,6 @@ Latihan slicing UI Food Delivery
 
 ### Product Detail
 <img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/product_detail.jpg" alt="" width="300">
-![Product Detail]()
 
 ### Order Tracking
 <img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/tracking.jpg" alt="" width="300">
