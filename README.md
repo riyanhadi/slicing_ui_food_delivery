@@ -3,13 +3,13 @@ Latihan slicing UI Food Delivery
 
 ## Sreenshot Food Delivery
 ### Dashboard
-<img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/dashboard.jpg" alt="Dashboard" width="300">
-
-![Dashboard](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/dashboard.jpg)
+<img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/dashboard.jpg" alt="" width="300">
 
 ### Product Detail
-![Product Detail](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/product_detail.jpg)
+<img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/product_detail.jpg" alt="" width="300">
+![Product Detail]()
 
 ### Order Tracking
-![Order Tracking](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/tracking.jpg)
+<img src="https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/tracking.jpg" alt="" width="300">
+
 
