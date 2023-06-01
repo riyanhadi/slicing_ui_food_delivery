@@ -1,5 +1,5 @@
-# slicing UI Food Delivery
-Latihan slicing UI Food Delivery
+# Slicing UI Food Delivery
+Latihan Slicing UI Food Delivery
 
 
 ### Sreenshot Dashboard
