@@ -1,16 +1,13 @@
-# slicing_iu_fooddelivery
+# Teras UI KIT
+Latihan slicing UI Food Delivery
 
-A new Flutter project.
+## Sreenshot Food Delivery
+### Dashboard
+![Screenshot 2023-05-12 100931](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/dashboard.jpg)
 
-## Getting Started
+### Product Detail
+![Screenshot 2023-05-12 100950](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/product_detail.jpg)
 
-This project is a starting point for a Flutter application.
+### Order Tracking
+![Screenshot 2023-05-12 101011](https://raw.githubusercontent.com/riyanhadi/slicing_ui_food_delivery/main/screenshot/tracking.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
